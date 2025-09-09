@@ -36,10 +36,11 @@ Here are some ideas to get you started:
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitdb04&theme=radical">
 
 </div>
-
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitdb04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=ankitdb04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ankitdb04&theme=dark&hide_border=false)
+-->
 <!-- Snake Game Repo View -->
 
 <div align="center">
